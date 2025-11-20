@@ -1,73 +1,73 @@
-Roboto Variable Font
+NotoSansThai Variable Font
 ====================
 
-This download contains Roboto as both variable fonts and static fonts.
+This download contains NotoSansThai as both variable fonts and static fonts.
 
-Roboto is a variable font with these axes:
+NotoSansThai is a variable font with these axes:
   wdth
   wght
 
 This means all the styles are contained in these files:
-  Roboto-VariableFont_wdth,wght.ttf
-  Roboto-Italic-VariableFont_wdth,wght.ttf
+  NotoSansThai-VariableFont_wdth,wght.ttf
+  NotoSansThai-Italic-VariableFont_wdth,wght.ttf
 
 If your app fully supports variable fonts, you can now pick intermediate styles
 that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Roboto:
-  static/Roboto_Condensed-Thin.ttf
-  static/Roboto_Condensed-ExtraLight.ttf
-  static/Roboto_Condensed-Light.ttf
-  static/Roboto_Condensed-Regular.ttf
-  static/Roboto_Condensed-Medium.ttf
-  static/Roboto_Condensed-SemiBold.ttf
-  static/Roboto_Condensed-Bold.ttf
-  static/Roboto_Condensed-ExtraBold.ttf
-  static/Roboto_Condensed-Black.ttf
-  static/Roboto_SemiCondensed-Thin.ttf
-  static/Roboto_SemiCondensed-ExtraLight.ttf
-  static/Roboto_SemiCondensed-Light.ttf
-  static/Roboto_SemiCondensed-Regular.ttf
-  static/Roboto_SemiCondensed-Medium.ttf
-  static/Roboto_SemiCondensed-SemiBold.ttf
-  static/Roboto_SemiCondensed-Bold.ttf
-  static/Roboto_SemiCondensed-ExtraBold.ttf
-  static/Roboto_SemiCondensed-Black.ttf
-  static/Roboto-Thin.ttf
-  static/Roboto-ExtraLight.ttf
-  static/Roboto-Light.ttf
-  static/Roboto-Regular.ttf
-  static/Roboto-Medium.ttf
-  static/Roboto-SemiBold.ttf
-  static/Roboto-Bold.ttf
-  static/Roboto-ExtraBold.ttf
-  static/Roboto-Black.ttf
-  static/Roboto_Condensed-ThinItalic.ttf
-  static/Roboto_Condensed-ExtraLightItalic.ttf
-  static/Roboto_Condensed-LightItalic.ttf
-  static/Roboto_Condensed-Italic.ttf
-  static/Roboto_Condensed-MediumItalic.ttf
-  static/Roboto_Condensed-SemiBoldItalic.ttf
-  static/Roboto_Condensed-BoldItalic.ttf
-  static/Roboto_Condensed-ExtraBoldItalic.ttf
-  static/Roboto_Condensed-BlackItalic.ttf
-  static/Roboto_SemiCondensed-ThinItalic.ttf
-  static/Roboto_SemiCondensed-ExtraLightItalic.ttf
-  static/Roboto_SemiCondensed-LightItalic.ttf
-  static/Roboto_SemiCondensed-Italic.ttf
-  static/Roboto_SemiCondensed-MediumItalic.ttf
-  static/Roboto_SemiCondensed-SemiBoldItalic.ttf
-  static/Roboto_SemiCondensed-BoldItalic.ttf
-  static/Roboto_SemiCondensed-ExtraBoldItalic.ttf
-  static/Roboto_SemiCondensed-BlackItalic.ttf
-  static/Roboto-ThinItalic.ttf
-  static/Roboto-ExtraLightItalic.ttf
-  static/Roboto-LightItalic.ttf
-  static/Roboto-Italic.ttf
-  static/Roboto-MediumItalic.ttf
-  static/Roboto-SemiBoldItalic.ttf
-  static/Roboto-BoldItalic.ttf
-  static/Roboto-ExtraBoldItalic.ttf
-  static/Roboto-BlackItalic.ttf
+in those cases you can use the static font files for NotoSansThai:
+  static/NotoSansThai_Condensed-Thin.ttf
+  static/NotoSansThai_Condensed-ExtraLight.ttf
+  static/NotoSansThai_Condensed-Light.ttf
+  static/NotoSansThai_Condensed-Regular.ttf
+  static/NotoSansThai_Condensed-Medium.ttf
+  static/NotoSansThai_Condensed-SemiBold.ttf
+  static/NotoSansThai_Condensed-Bold.ttf
+  static/NotoSansThai_Condensed-ExtraBold.ttf
+  static/NotoSansThai_Condensed-Black.ttf
+  static/NotoSansThai_SemiCondensed-Thin.ttf
+  static/NotoSansThai_SemiCondensed-ExtraLight.ttf
+  static/NotoSansThai_SemiCondensed-Light.ttf
+  static/NotoSansThai_SemiCondensed-Regular.ttf
+  static/NotoSansThai_SemiCondensed-Medium.ttf
+  static/NotoSansThai_SemiCondensed-SemiBold.ttf
+  static/NotoSansThai_SemiCondensed-Bold.ttf
+  static/NotoSansThai_SemiCondensed-ExtraBold.ttf
+  static/NotoSansThai_SemiCondensed-Black.ttf
+  static/NotoSansThai-Thin.ttf
+  static/NotoSansThai-ExtraLight.ttf
+  static/NotoSansThai-Light.ttf
+  static/NotoSansThai-Regular.ttf
+  static/NotoSansThai-Medium.ttf
+  static/NotoSansThai-SemiBold.ttf
+  static/NotoSansThai-Bold.ttf
+  static/NotoSansThai-ExtraBold.ttf
+  static/NotoSansThai-Black.ttf
+  static/NotoSansThai_Condensed-ThinItalic.ttf
+  static/NotoSansThai_Condensed-ExtraLightItalic.ttf
+  static/NotoSansThai_Condensed-LightItalic.ttf
+  static/NotoSansThai_Condensed-Italic.ttf
+  static/NotoSansThai_Condensed-MediumItalic.ttf
+  static/NotoSansThai_Condensed-SemiBoldItalic.ttf
+  static/NotoSansThai_Condensed-BoldItalic.ttf
+  static/NotoSansThai_Condensed-ExtraBoldItalic.ttf
+  static/NotoSansThai_Condensed-BlackItalic.ttf
+  static/NotoSansThai_SemiCondensed-ThinItalic.ttf
+  static/NotoSansThai_SemiCondensed-ExtraLightItalic.ttf
+  static/NotoSansThai_SemiCondensed-LightItalic.ttf
+  static/NotoSansThai_SemiCondensed-Italic.ttf
+  static/NotoSansThai_SemiCondensed-MediumItalic.ttf
+  static/NotoSansThai_SemiCondensed-SemiBoldItalic.ttf
+  static/NotoSansThai_SemiCondensed-BoldItalic.ttf
+  static/NotoSansThai_SemiCondensed-ExtraBoldItalic.ttf
+  static/NotoSansThai_SemiCondensed-BlackItalic.ttf
+  static/NotoSansThai-ThinItalic.ttf
+  static/NotoSansThai-ExtraLightItalic.ttf
+  static/NotoSansThai-LightItalic.ttf
+  static/NotoSansThai-Italic.ttf
+  static/NotoSansThai-MediumItalic.ttf
+  static/NotoSansThai-SemiBoldItalic.ttf
+  static/NotoSansThai-BoldItalic.ttf
+  static/NotoSansThai-ExtraBoldItalic.ttf
+  static/NotoSansThai-BlackItalic.ttf
 
 Get started
 -----------
